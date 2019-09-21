@@ -1,0 +1,23 @@
+fileFormatVersion: 2
+guid: 5ad09104a07cfd947aaa1c96b8240c28
+timeCreated: 1535266487
+licenseType: Free
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: Outlast 2 Game Font
+  fontNames:
+  - Outlast 2 Game Font
+  fallbackFontReferences: []
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  useLegacyBoundsCalculation: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
