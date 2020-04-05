@@ -3,7 +3,7 @@
 ## Introduction
 This is horror game of a man being locked inside an abandoned house, developed using Unity and C#. In this game, the weather is getting really cold outside, so there is no time to waste because death can come within minutes. However, getting outside the house is not easy at all, as the player has to go through multiple puzzles and challenges to unlock the next secret and maybe escape from this nightmare.
 
-![](One Night/OneNightRiskScreen.PNG)
+![](OneNight/OneNightRiskScreen.PNG)
 
 ## Development
 The game was developed using Unity and C#. Many of the lighting system was developed using point light and menu was built with Unity UI system. 
