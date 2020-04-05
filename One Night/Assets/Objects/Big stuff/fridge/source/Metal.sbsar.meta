@@ -1,21 +1,48 @@
 fileFormatVersion: 2
 guid: 46eaecb736eaf05449a8e17db5a1a108
 ScriptedImporter:
-  fileIDToRecycleName:
-    2100000: metal
-    2100002: rust
-    2800000: metal - baseColor
-    2800002: metal - normal
-    2800004: metal - metallic
-    2800006: metal - ambientOcclusion
-    2800008: rust - baseColor
-    2800010: rust - normal
-    2800012: rust - metallic
-    2800014: rust - ambientOcclusion
-    11400000: sbsar
-    11400002: graph1
-    11400004: graph0
+  internalIDToNameTable:
+  - first:
+      21: 2100000
+    second: metal
+  - first:
+      21: 2100002
+    second: rust
+  - first:
+      28: 2800000
+    second: metal - baseColor
+  - first:
+      28: 2800002
+    second: metal - normal
+  - first:
+      28: 2800004
+    second: metal - metallic
+  - first:
+      28: 2800006
+    second: metal - ambientOcclusion
+  - first:
+      28: 2800008
+    second: rust - baseColor
+  - first:
+      28: 2800010
+    second: rust - normal
+  - first:
+      28: 2800012
+    second: rust - metallic
+  - first:
+      28: 2800014
+    second: rust - ambientOcclusion
+  - first:
+      114: 11400000
+    second: sbsar
+  - first:
+      114: 11400002
+    second: graph1
+  - first:
+      114: 11400004
+    second: graph0
   externalObjects: {}
+  serializedVersion: 2
   userData: 
   assetBundleName: 
   assetBundleVariant: 

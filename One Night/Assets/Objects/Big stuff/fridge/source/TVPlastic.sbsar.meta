@@ -1,16 +1,33 @@
 fileFormatVersion: 2
 guid: 0cc396464914e134f86de58f3382ba89
 ScriptedImporter:
-  fileIDToRecycleName:
-    2100000: plastic_base
-    2800000: plastic_base - baseColor
-    2800002: plastic_base - normal
-    2800004: plastic_base - metallic
-    2800006: plastic_base - ambientOcclusion
-    2800008: plastic_base - height
-    11400000: sbsar
-    11400002: graph0
+  internalIDToNameTable:
+  - first:
+      21: 2100000
+    second: plastic_base
+  - first:
+      28: 2800000
+    second: plastic_base - baseColor
+  - first:
+      28: 2800002
+    second: plastic_base - normal
+  - first:
+      28: 2800004
+    second: plastic_base - metallic
+  - first:
+      28: 2800006
+    second: plastic_base - ambientOcclusion
+  - first:
+      28: 2800008
+    second: plastic_base - height
+  - first:
+      114: 11400000
+    second: sbsar
+  - first:
+      114: 11400002
+    second: graph0
   externalObjects: {}
+  serializedVersion: 2
   userData: 
   assetBundleName: 
   assetBundleVariant: 

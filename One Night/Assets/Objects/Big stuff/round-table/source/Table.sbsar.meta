@@ -1,16 +1,33 @@
 fileFormatVersion: 2
 guid: 2fbc6b50fffcb174eac1431d50828464
 ScriptedImporter:
-  fileIDToRecycleName:
-    2100000: furniture_plastic_melamine
-    2800000: furniture_plastic_melamine - baseColor
-    2800002: furniture_plastic_melamine - normal
-    2800004: furniture_plastic_melamine - metallic
-    2800006: furniture_plastic_melamine - ambientOcclusion
-    2800008: furniture_plastic_melamine - height
-    11400000: sbsar
-    11400002: graph0
+  internalIDToNameTable:
+  - first:
+      21: 2100000
+    second: furniture_plastic_melamine
+  - first:
+      28: 2800000
+    second: furniture_plastic_melamine - baseColor
+  - first:
+      28: 2800002
+    second: furniture_plastic_melamine - normal
+  - first:
+      28: 2800004
+    second: furniture_plastic_melamine - metallic
+  - first:
+      28: 2800006
+    second: furniture_plastic_melamine - ambientOcclusion
+  - first:
+      28: 2800008
+    second: furniture_plastic_melamine - height
+  - first:
+      114: 11400000
+    second: sbsar
+  - first:
+      114: 11400002
+    second: graph0
   externalObjects: {}
+  serializedVersion: 2
   userData: 
   assetBundleName: 
   assetBundleVariant: 
