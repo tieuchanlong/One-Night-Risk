@@ -11,6 +11,9 @@ The game was developed using Unity and C#. Many of the lighting system was devel
 ## Challenges
 The hardest challenge I went through was the jumpscare cutscene, in which I have made a script for the lighting system and the animation of the monster aligned with each other. There was no direct solution to this cutscene, but changing the lighting time to public made the cutscene set up a lot easier.
 
+## Programming Language
+C#
+
 ## Major Components
 * Unity
 
